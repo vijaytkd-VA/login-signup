@@ -1,0 +1,34 @@
+/* App.css */
+
+div {
+  text-align: center;
+  margin: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input, select, button {
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}

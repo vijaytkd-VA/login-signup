@@ -1,0 +1,27 @@
+.menu-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    margin-right: 20px; 
+  }
+  
+  .menu-button:hover {
+    background-color: #0056b3;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #35dc96;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #c82333;
+  }
+  
